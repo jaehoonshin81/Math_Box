@@ -1,4 +1,3 @@
-print "hello world"
 #기본 계산기
 
 def add(x,y):
@@ -6,3 +5,6 @@ def add(x,y):
 
 def subtract(a, b):
     return a-b
+
+def multiply(a, b):
+    return a * b
